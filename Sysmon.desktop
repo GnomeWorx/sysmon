@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Sysmon
+Comment=System Monitor
+Exec=sysmon
+Icon=sysmon
+Terminal=false
+Categories=System;Monitor;

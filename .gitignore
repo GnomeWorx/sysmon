@@ -41,9 +41,6 @@ dist/
 # Project-specific
 sysmon
 linuxdeployqt
-Sysmon.desktop
-sysmon.png
-sysmon_icon*
 .idea/
 cmake-build-*/
 *.user
