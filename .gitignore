@@ -1,0 +1,49 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+build_release/
+cmake-build-debug/
+AppDir/
+dist/
+
+# Project-specific
+sysmon
+linuxdeployqt
+Sysmon.desktop
+sysmon.png
+sysmon_icon*
+.idea/
+cmake-build-*/
+*.user
